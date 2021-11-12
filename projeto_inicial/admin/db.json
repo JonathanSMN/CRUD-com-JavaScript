@@ -1,7 +1,7 @@
 {
   "profile": [
     {
-      "nome": "felipe",
+      "nome": "Felipe",
       "email": "felipe@alura.com",
       "id": 1
     },
@@ -9,6 +9,16 @@
       "nome": "Jonathan",
       "email": "jonathan.nascimento@vertra.com.br",
       "id": 2
+    },
+    {
+      "nome": "Jonathan",
+      "email": "jonathan.nascimento@vertra.com.br",
+      "id": 3
+    },
+    {
+      "nome": "Jonathan",
+      "email": "jonathan.nascimento@vertra.com.br",
+      "id": 4
     }
   ]
 }
